@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "docs:dev": "NODE_OPTIONS=--openssl-legacy-provider vuepress dev docs",
-    "docs:build": "NODE_OPTIONS=--openssl-legacy-provider vuepress build docs",
-    "deploy": "NODE_OPTIONS=--openssl-legacy-provider vuepress build docs && rm -rf /var/www/lib.kupars.top && cp docs/.vuepress/dist /var/www/lib.kupars.top -r"
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "deploy": "vuepress build docs && rm -rf /var/www/lib.kupars.top && cp docs/.vuepress/dist /var/www/lib.kupars.top -r"
   },
   "keywords": [],
   "author": "AlexXuCN",
