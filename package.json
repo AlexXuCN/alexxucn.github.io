@@ -1,0 +1,38 @@
+{
+  "name": "vuepress-neko",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "deploy": "vuepress build docs && rm -rf /var/www/docs.mcneko.fun && cp docs/.vuepress/dist /var/www/docs.mcneko.fun -r"
+  },
+  "keywords": [],
+  "author": "DianFenMian",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@vuepress/client": "2.0.0-beta.66",
+    "@vuepress/plugin-git": "2.0.0-beta.66",
+    "@vuepress/theme-default": "2.0.0-beta.66",
+    "vuepress": "2.0.0-beta.66",
+    "vuepress-theme-sidebar": "^0.0.9"
+  },
+  "devDependencies": {
+    "vue": "3.3.4",
+    "vuepress-plugin-copy-code2": "2.0.0-beta.234",
+    "vuepress-plugin-md-enhance": "2.0.0-beta.234"
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DianFenMian/dianfenmian.github.io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DianFenMian/dianfenmian.github.io/issues"
+  },
+  "homepage": "https://github.com/DianFenMian/dianfenmian.github.io#readme"
+}
