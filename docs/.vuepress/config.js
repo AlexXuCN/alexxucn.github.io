@@ -1,6 +1,7 @@
 import { gitPlugin } from "@vuepress/plugin-git";
 import { mdEnhancePlugin } from "vuepress-plugin-md-enhance";
 import { copyCodePlugin } from "vuepress-plugin-copy-code2";
+import { searchPlugin } from '@vuepress/plugin-search'
 //import { pwaPlugin } from "@vuepress/plugin-pwa";
 //import { defaultTheme } from '@vuepress/theme-default'
 import themeSidebar from 'vuepress-theme-sidebar';
