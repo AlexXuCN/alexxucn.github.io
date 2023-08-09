@@ -39,3 +39,12 @@ export default {
     })
   ]
 }
+
+module.exports = {
+  themeConfig: {
+    nav: [
+      { text: "首页", link: "/" },
+      { text: "宣传贴", link: "https://klpbbs.com/thread-97362-1-2.html" }
+  ]
+  }
+}
