@@ -7,7 +7,7 @@ sidebar: true
 actions:
   - text: 查看文档
     type: primary 
-    link: /文档/
+    link: /home/
   - text: 加入Q群
     type: secondary
     link: https://qm.qq.com/cgi-bin/qm/qr?k=yz2e97_MXHJrOzxz2NBXdlWZb27ZtyBM&jump_from=webapi&authKey=P+y1ZaFeufcniM28pN9jSQ72OHPvRNHASM2BhTgClwp8Fo04caPv/4lGNHSZwcH8
