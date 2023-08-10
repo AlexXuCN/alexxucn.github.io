@@ -44,8 +44,8 @@
 ## 🎇 鸣谢名单
 由衷感谢 
 淀粉面、沐兮、Robbow、mcxiaohao 在此文档编写、排版等工作
-AlexXuCn、淀粉面 部署此网站
-本页面fork于 OWL Library 并已经其管理人员同意。
+本网站由 [AlexXuCN](https://github.com/AlexXuCN]、[淀粉面](https://github.com/DianFenMian) 部署于GitHub Pages  
+本站fork自 [OWL Library](https://github.com/OWLUnion/Library)
 
 ### （超）小声吐槽
 
