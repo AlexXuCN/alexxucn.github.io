@@ -44,7 +44,7 @@
 ## 🎇 鸣谢名单
 由衷感谢 
 淀粉面、沐兮、Robbow、mcxiaohao 在此文档编写、排版等工作
-本网站由 [AlexXuCN](https://github.com/AlexXuCN]、[淀粉面](https://github.com/DianFenMian) 部署于GitHub Pages  
+本网站由 [AlexXuCN](https://github.com/AlexXuCN)、[淀粉面](https://github.com/DianFenMian) 部署于GitHub Pages  
 本站fork自 [OWL Library](https://github.com/OWLUnion/Library)
 
 ### （超）小声吐槽
@@ -52,9 +52,10 @@
 ⚠警告：此内容不建议阁下观看，其内容可能过激，且包含不合适的话语。
 
 
-
-
+::: details
 
 笑死我了■■■的破文档，你觉得真的会有玩家闲的看你的设计理念，纯■■放■！
 写那么多东西，4h8g破配置还要拿出来炫耀，真■■牛■，我就觉得K■■■■■多少有点■■
 满文档洋文，真觉得沾点米国文就牛■了呗
+
+:::
